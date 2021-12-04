@@ -1,15 +1,3 @@
-/* variables */
-/************/
-
-:root {
-  /* palet colors */
-  --themecolor1: rgb(10, 10, 10);
-  --themecolor2: rgb(45, 98, 113);
-  --themecolor3: white;
-
-  --font: Calibri, sans-serif;
-}
-
 /* base styles */
 /**************/
 * {
